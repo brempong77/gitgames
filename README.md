@@ -1,5 +1,4 @@
 # gitgames
-Games to build Git Skills
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,15 +10,18 @@ Games to build Git Skills
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-Provide a brief description of the project. Explain the purpose of the repository and how it helps users build Git skills.
+Games centered around Git to build Git skills as part of the DevOps cycle .
 
 ## Features
-Highlight the key features of the project. For example:
-- Interactive Git games
-- Tutorials for beginners
-- Challenges for advanced users
+- Git tutorials for beginners
 
 ## Installation
+
+Prerequisite: 
+Install git 
+(Windows) https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe
+(Mac) https://git-scm.com/downloads/mac
+
 Provide step-by-step instructions on how to install and run the project locally. For example:
 1. Clone the repository:
    ```bash
@@ -37,7 +39,7 @@ Explain how users can use the project. For example:
 - Provide examples or screenshots of gameplay.
 
 ## Contributing
-Encourage contributions and explain how users can contribute. For example:
+For contribution, follow the below:
 1. Fork the repository.
 2. Create a new branch:
    ```bash
@@ -54,12 +56,10 @@ Encourage contributions and explain how users can contribute. For example:
 5. Open a pull request on GitHub.
 
 ## License
-State the license under which the project is distributed. For example:
-This project is licensed under the [MIT License](LICENSE).
+
+This project is licensed Detrea Hayes.
 
 ## Acknowledgments
-Mention any resources, tools, or individuals that helped in creating the project.
+Coming Soon!
 
----
 
-You can customize this template based on the specifics of your project. Let me know if you’d like help filling in any of the sections!
