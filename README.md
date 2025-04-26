@@ -22,6 +22,8 @@ Install git
 (Windows) https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe
 (Mac) https://git-scm.com/downloads/mac
 
+Create a Github account. Get started here. https://github.com/
+
 Provide step-by-step instructions on how to install and run the project locally. For example:
 1. Clone the repository:
    ```bash
