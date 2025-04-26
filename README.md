@@ -18,13 +18,13 @@ Games centered around Git to build Git skills as part of the DevOps cycle .
 ## Installation
 
 Prerequisite: 
-Install git 
-(Windows) https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe
-(Mac) https://git-scm.com/downloads/mac
+-Install git 
+   [Windows](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe) 
+   [Mac](https://git-scm.com/downloads/mac)
 
-Create a Github account. Get started here. https://github.com/
+-Create a Github account. Get started [here](https://github.com/)
 
-Provide step-by-step instructions on how to install and run the project locally. For example:
+-Open Git Bash 
 1. Clone the repository:
    ```bash
    git clone https://github.com/brempong77/gitgames.git
@@ -41,7 +41,7 @@ Explain how users can use the project. For example:
 - Provide examples or screenshots of gameplay.
 
 ## Contributing
-For contribution, follow the below:
+Follow the below to get started:
 1. Fork the repository.
 2. Create a new branch:
    ```bash
