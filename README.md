@@ -32,6 +32,7 @@ Prerequisite:
 
       - Using Homebrew (Recommended):
       - If you don't have Homebrew installed, open the Terminal application (you can find it in Applications -> Utilities) and run the following command:
+        ```bash
 + Bash
 
 + /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
