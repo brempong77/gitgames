@@ -21,12 +21,12 @@ Prerequisite:
 -Install git 
    -[Windows](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe) 
 
-    -Click the above link to download the windows installation file for 64bit machines.
-    -The download should start automatically.
-    -Once the installer is downloaded, double-click it to run.
-    -Follow the on-screen instructions. You can usually just click "Next" through most of the options. The default settings are generally recommended for beginners.
-    -When prompted to "Choose Components", ensure the "Git Bash Here" option is selected. This will give you a command-line interface for using Git.
-    -Continue following the instructions until the installation is complete.
+   -Click the above link to download the windows installation file for 64bit machines.
+   -The download should start automatically.
+   -Once the installer is downloaded, double-click it to run.
+   -Follow the on-screen instructions. You can usually just click "Next" through most of the options. The default settings are generally recommended for beginners.
+   -When prompted to "Choose Components", ensure the "Git Bash Here" option is selected. This will give you a command-line interface for using Git.
+   -Continue following the instructions until the installation is complete.
 
    *[Mac](https://git-scm.com/downloads/mac)
    
