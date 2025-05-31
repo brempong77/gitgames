@@ -10,8 +10,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-Games centered around Git to build Git skills as part of the DevOps cycle .
-
+GIT Games is designed to help get you up to speed on GIT.
 ## Features
 - Git tutorials for beginners
 
